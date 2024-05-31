@@ -1,7 +1,7 @@
-// 1-masala
-// let a = +prompt("kvadrt-tomoninikiriting");
-// let p = 4 * a;
-// console.log(p);
+1 - masala;
+let a = +prompt("kvadrt-tomoninikiriting");
+let p = 4 * a;
+console.log(p);
 // 2 - masala;
 // let a = +prompt("kvadrt-yumoninikiriting");
 // let S = a * a;
