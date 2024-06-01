@@ -31,8 +31,8 @@ console.log(p);
 // console.log(S);
 // 7-masala
 // let R = +prompt("doiraning radiusini kiriting");
-// let L=2*Math.PI*R;
-// let S=Math.PI*R*R;
+// let L = 2 * Math.PI * R;
+// let S = Math.PI * R * R;
 // console.log(L);
 // console.log(S);
 // 8-masala
@@ -139,7 +139,7 @@ console.log(p);
 // let onlar_xonasidagiraqami = Math.floor((a % 100) / 10);
 // let yuzlar_xonasidagiraqami = Math.floor(a / 100);
 // console.log(
-//   onlar_xonasidagiraqami * 100 +
-//     birlar_xonasidagiraqami * 10 +
-//     yuzlar_xonasidagiraqami
+//   yuzlar_xonasidagiraqami * 100 +
+//     onlar_xonasidagiraqami * 10 +
+//     birlar_xonasidagiraqami
 // );
